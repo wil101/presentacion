@@ -1,5 +1,4 @@
-# Sobre mi 
-Sobre mí 👋
+# Sobre mi 👋
 Soy un profesional en tecnología apasionado por el análisis de datos, la programación y el growth marketing. Con experiencia en el desarrollo de dashboards, optimización de procesos y manejo de datos para la toma de decisiones, busco constantemente nuevos retos que me permitan aplicar y expandir mis habilidades técnicas en entornos colaborativos y de alto impacto.
 
 
