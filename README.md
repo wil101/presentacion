@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hello! I'm Wilmar Osorio, a 21-year-old student of Systems Engineering and programmer from Medellín, Colombia. I have a huge passion for software and web development, along with data analysis. This drives me to always explore new technologies and apply best practices. I have a strong ability to learn on my own, allowing me to adapt quickly. Nice to meet you! :)"
+# Sobre mi 
+Sobre mí 👋
+Soy un profesional en tecnología apasionado por el análisis de datos, la programación y el growth marketing. Con experiencia en el desarrollo de dashboards, optimización de procesos y manejo de datos para la toma de decisiones, busco constantemente nuevos retos que me permitan aplicar y expandir mis habilidades técnicas en entornos colaborativos y de alto impacto.
 
 
 ## 🌐 Socials:
